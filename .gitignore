@@ -1,0 +1,10 @@
+# Pyrogram session files
+*.session
+*.session-journal
+
+# Environment & config
+.env
+config.py
+venv/
+__pycache__/
+*.pyc
